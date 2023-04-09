@@ -1,0 +1,116 @@
+{
+    "categories": [
+        {
+            "id": "iPhone",
+            "name": "iPhone",
+            "image": "https://i.postimg.cc/mDNvMY8t/1-removebg-preview-1.png",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "iPhone 14 pro",
+                    "image": "https://i.postimg.cc/mDNvMY8t/1-removebg-preview-1.png",
+                    "price": 399,
+                    "description": "A budget-friendly iPhone with a 4.7-inch Retina HD display, A13 Bionic chip, and a single-camera system with Portrait mode and 4K video."
+                },
+                {
+                    "id": 2,
+                    "name": "iPhone 12",
+                    "image": "https://i.postimg.cc/SxvbQCGc/1-removebg-preview-3.png",
+                    "price": 799,
+                    "description": "A popular smartphone from Apple, featuring a 6.1-inch Super Retina XDR display, A14 Bionic chip, 5G connectivity, and a dual-camera system with Night mode."
+                },
+                {
+                    "id": 3,
+                    "name": "iphone 100 Pro max",
+                    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583553704156",
+                    "price": 2999,
+                    "description": "The latest flagship smartphone from Apple, featuring a 6.1-inch Super Retina XDR display, A15 Bionic chip, 5G connectivity, and a dual-camera system with Night mode."
+                },
+                {
+                    "id": 4,
+                    "name": "iPhone 13 Pro",
+                    "image": "https://i.postimg.cc/rFwzs64W/iphone-card-40-iphone14-202209-removebg-preview.png",
+                    "price": 1099,
+                    "description": "The premium version of the iPhone 13, featuring a 6.1-inch or 6.7-inch Super Retina XDR display with ProMotion technology, A15 Bionic chip, 5G connectivity, and a triple-camera system with Night mode."
+                },
+                {
+                    "id": 5,
+                    "name": "iPhone XR",
+                    "image": "https://i.postimg.cc/7Y82mP5k/1-removebg-preview-4.png",
+                    "price": 499,
+                    "description": "A previous generation iPhone with a 6.1-inch Liquid Retina HD display, A12 Bionic chip, and a single-camera system with Portrait mode and"
+                },
+                {
+                    "id": 6,
+                    "name": "iPhone 21 pro",
+                    "image": "https://i.postimg.cc/mDNvMY8t/1-removebg-preview-1.png",
+                    "price": 399,
+                    "description": "A budget-friendly iPhone with a 4.7-inch Retina HD display, A13 Bionic chip, and a single-camera system with Portrait mode and 4K video."
+                },
+                {
+                    "id": 7,
+                    "name": "iPhone SE",
+                    "image": "https://i.postimg.cc/kX6tJ3K4/image-eibezdiuycmu-large-2x-removebg-preview.png",
+                    "price": 399,
+                    "description": "A compact iPhone with a 4.7-inch Retina HD display, A13 Bionic chip, and Touch ID."
+                }
+            ]
+        },
+        {
+            "id": "AirPods",
+            "name": "AirPods",
+            "image": "https://i.postimg.cc/90vNMdcs/photo-1610438235354-a6ae5528385c-removebg-preview.png",
+            "products": [
+                {
+                    "id": 8,
+                    "name": "AirPods Pro",
+                    "image": "https://www.apple.com/v/airpods/shared/compare/b/images/compare/compare_airpods_pro__e9uzt0mzviem_large.png",
+                    "price": 249,
+                    "description": "The AirPods Pro are the top-of-the-line wireless earbuds from Apple. They feature noise cancellation technology, transparency mode, and a customizable fit for maximum comfort. With up to 4.5 hours of listening time on a single charge and a wireless charging case, these earbuds are perfect for those who want high-quality audio on-the-go."
+                },
+                {
+                    "id": 9,
+                    "name": "AirPods Max",
+                    "image": "https://www.apple.com/v/airpods/shared/compare/b/images/compare/compare_airpods_max__b14s2x6q07rm_large.png",
+                    "price": 549,
+                    "description": "The AirPods Max are Apple's first over-ear headphones, and they are designed to deliver high-fidelity audio with active noise cancellation. With a sleek and stylish design, these headphones feature a breathable knit mesh canopy and ear cushions that distribute the weight evenly for maximum comfort. They offer up to 20 hours of battery life on a single charge and come with a soft, slim Smart Case that protects your headphones while they're not in use."
+                },
+                {
+                    "id": 10,
+                    "name": "AirPods",
+                    "image": "https://www.apple.com/v/airpods/shared/compare/b/images/compare/compare_airpods_2nd_gen__fw52r8rxrpyu_large.png",
+                    "price": 159,
+                    "description": "The AirPods are Apple's original wireless earbuds, and they are still a popular choice for those who want a simple and reliable audio experience. With up to 5 hours of listening time on a single charge and a charging case that provides multiple charges, these earbuds are great for everyday use. They offer easy setup and automatic on/off, and they work seamlessly with all your Apple devices."
+                }
+            ]
+        },
+        {
+            "id": "Watches",
+            "name": "Watches",
+            "image": "https://i.postimg.cc/sxV5H94t/compare-s8-c2cff9ld4e2q-large-removebg-preview.png",
+            "products": [
+                {
+                    "id": 11,
+                    "name": "Apple Watch Series 7",
+                    "image": "https://example.com/applewatch7.jpg",
+                    "price": 399,
+                    "description": "The latest version of Apple's popular smartwatch, featuring a larger always-on Retina display, faster charging, and new watch faces and workout modes."
+                },
+                {
+                    "id": 12,
+                    "name": "Apple Watch SE",
+                    "image": "https://example.com/applewatchse.jpg",
+                    "price": 279,
+                    "description": "A more affordable version of the Apple Watch, featuring the same powerful S5 chip, fall detection, and heart rate monitoring as the Series 5 and 6."
+                },
+                {
+                    "id": 13,
+                    "name": "Apple Watch Series 3",
+                    "image": "https://example.com/applewatch3.jpg",
+                    "price": 199,
+                    "description": "An entry-level version of the Apple Watch, featuring GPS, heart rate monitoring, and water resistance up to 50 meters."
+                }
+            ]
+        }
+    ]
+}
